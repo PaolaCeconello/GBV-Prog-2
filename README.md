@@ -11,10 +11,10 @@ Implementação em C de um gerenciador de arquivos para a disciplina de Programa
 
 ## Como rodar
 ```bash
-git clone https://github.com/PaolaCeconello/A1.git
-cd A1
+git clone https://github.com/PaolaCeconello/GBV-Prog-2.git
+cd GBV-Prog-2
 make
-./A1
+./gbv <opção> <biblioteca> [documentos...]
 ```
 
 
